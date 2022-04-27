@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 ##
 
 <div align="start">
-  <img alt="statistics" height="180em" src="https://github-readme-stats.vercel.app/api?username=JonatasCaetano&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img alt="ranking languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonatasCaetano&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img alt="statistics" height="180em" src="https://github-readme-stats.vercel.app/api?username=JonatasCaetano&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img alt="ranking languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonatasCaetano&layout=compact&langs_count=7&theme=codeSTACKr&locale=pt-br"/>
+  
 </div>
 
 ##  
@@ -43,7 +44,7 @@ Here are some ideas to get you started:
   <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />   
 </div>  
-          
+         
           
           
 
